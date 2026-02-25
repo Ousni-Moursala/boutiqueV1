@@ -29,10 +29,10 @@ Application mobile Flutter pour gérer une boutique locale, visualiser des produ
 ## 📷 Captures d’écran
 
 ### Écran d’accueil
-![HomePage](assets/screenshots/home_page.png)
+![HomePage](assets/screenshots/home_page.jpeg)
 
 ### Liste de boutiques / produits
-![EventPage](assets/screenshots/event_page.png)
+![EventPage](assets/screenshots/event_page.jpeg)
 
 ---
 
